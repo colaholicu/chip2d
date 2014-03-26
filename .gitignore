@@ -19,3 +19,12 @@
 *.ipch
 *.obj
 *.pdb
+*.ilk
+*.lastbuildstate
+*.pch
+*.idb
+*.unsuccessfulbuild
+*.res
+*.filters
+*.sdf
+*.user
